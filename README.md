@@ -13,7 +13,7 @@ I am currently pursuing my bachelor's degree on Computer Science Major at Univer
 ## 🎶 Fun Fact
 
 - I love music a lot I can listen to it all day
-- I used to wanted to be a Medical Student, but as I grow up i found out what i really enjoy doing.
+- I used to wanted to be a Medical Student, but as I grew up I found out what I really enjoy doing.
 
 ## 📫 Contact
 
