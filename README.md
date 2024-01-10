@@ -8,7 +8,7 @@ I am currently pursuing my bachelor's degree on Computer Science Major at Univer
 - I am really passionate about tech
 - Currently interested in studying web development.
 - Love to experincing new tools and new environment.
-- Commiting on github 365 Days, small commits matter.
+- Commiting on github 365 Days, small commit matters.
 
 ## 🎶 Fun Fact
 
