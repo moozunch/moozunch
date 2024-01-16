@@ -15,7 +15,7 @@ I am currently pursuing my bachelor's degree on Computer Science Major at Univer
 - I love music a lot I can listen to it all day
 - I used to wanted to be a Medical Student, but as I grew up I found out what I really enjoy doing.
 - I really enjoying editing and been editing since 2018.
-- I also love photography.
+- I also love photography and wanting to learn more about it including editing them.
 
 ## 📫 Contact
 
