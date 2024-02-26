@@ -19,8 +19,8 @@ I am currently pursuing my bachelor's degree on Computer Science Major at Univer
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/apictoresque/). 
- TLX Profile for Competitive Programming [TLX](https://tlx.toki.id/profiles/moozunch).
+ - For a quick response, DM me on [Instagram](https://www.instagram.com/apictoresque/). 
+ - TLX Profile for Competitive Programming [TLX](https://tlx.toki.id/profiles/moozunch).
   
 <!--
 **moozunch/moozunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
