@@ -1,6 +1,6 @@
 ### Hi there, I'm Annisa 👋
 
-I'm a 19-year-old developer based on Indonesia, and I really love tech and building personal branding.
+I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding.
 
 ## 🔭 Current Focus
 
