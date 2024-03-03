@@ -28,7 +28,7 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
 
 
  ## 📊 Github Stats
- ![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=moozunch&show_icons=true&theme=omni)
+ ![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=moozunch&show_icons=true&theme=onedark)
 <!--
 **moozunch/moozunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
