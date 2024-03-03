@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moozunch&label=Profile%20views&color=0e75b6&style=flat" alt="moozunch" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding.
 
@@ -29,9 +29,9 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
 
  ## 📊 Github Stats
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moozunch&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moozunch&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"></br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moozunch&theme=onedark&hide_border=false" alt="GitHub Streak Stats" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moozunch&theme=bear&hide_border=false" alt="GitHub Streak Stats" height="200">
 
 <!--
 **moozunch/moozunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
