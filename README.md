@@ -28,8 +28,9 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
 
 
  ## 📊 Github Stats
- <br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moozunch&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="200"><br/>
+
 
  ![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=moozunch&show_icons=true&theme=onedark)
  
