@@ -1,7 +1,8 @@
 ### Hi there, I'm Annisa 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moozunch&label=Profile%20views&color=0e75b6&style=flat" alt="moozunch" /> </p>
-![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=radical&no-frame=false&no-bg=true&margin-w=4).
 
 I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding.
 
