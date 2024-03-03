@@ -1,5 +1,7 @@
 ### Hi there, I'm Annisa 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moozunch&label=Profile%20views&color=0e75b6&style=flat" alt="moozunch" /> </p>
+
 I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding.
 
 ## 🔭 Current Focus
