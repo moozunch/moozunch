@@ -9,7 +9,7 @@ I'm a 19-year-old developer based on Indonesia, I really love tech and building 
 
 Currently pursuing my bachelor's degree on Computer Science Major at University of Sumatera Utara.
 - Tech Enthusiast
-- Currently interested in studying web development.
+- Currently interested in studying web and mobile development.
 - Love to experincing new tools and new environment.
 - Devour to commiting on github for 365 Days, small commit matters.
 
