@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I'm Annisa <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there, I'm Annisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding. <br>
 Mostly Intered in Mobile and Software Development
