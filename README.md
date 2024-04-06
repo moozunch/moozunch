@@ -1,10 +1,14 @@
-<img align="left" src="https://github.com/moozunch/moozunch/assets/112236945/8eb2acb6-7bf2-4861-bed6-05cac4224644" style="width:100px;height:100px;">
+<img align="left" src="https://github.com/moozunch/moozunch/assets/112236945/472c2450-9cf7-4743-beb2-a3fc40ac83dc" style="width:200px;height:200px;">
+
+
 
 ### Hi there, I'm Annisa <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding. <br>
+Mostly Intered in Mobile and Software Development
 
-I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding.
+
+![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔭 Current Focus
 
