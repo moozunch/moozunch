@@ -1,5 +1,6 @@
-### Hi there, I'm Annisa <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<img align="left" src="https://github.com/moozunch/moozunch/assets/112236945/8eb2acb6-7bf2-4861-bed6-05cac4224644" style="width:100px;height:100px;">
 
+### Hi there, I'm Annisa <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
