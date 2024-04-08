@@ -5,7 +5,6 @@
 ### Hi there, I'm Annisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding. <br>
-Mostly Intered in Mobile and Software Development <br>
 Currently working as a UI/UX Designer for blood donor application using Figma and Android Studio (private repository), and aswell learning Kotlin with IntelIJ 
 
 
@@ -15,7 +14,7 @@ Currently working as a UI/UX Designer for blood donor application using Figma an
 
 Currently pursuing my bachelor's degree on Computer Science Major at University of Sumatera Utara.
 - Tech Enthusiast
-- Currently interested in studying web and mobile development.
+- Mostly Intered in Mobile and Software Development.
 - Love to experincing new tools and new environment.
 - Devour to commiting on github for 365 Days, small commit matters.
 
