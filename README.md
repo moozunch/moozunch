@@ -6,7 +6,7 @@
 
 I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding. <br>
 Mostly Intered in Mobile and Software Development <br>
-Currently working on android development for blood donor application using Kotlin and Jetbrains (private repository)
+Currently working on Android development for blood donor application using Kotlin and Jetbrains (private repository)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
