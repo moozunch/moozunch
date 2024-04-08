@@ -11,7 +11,7 @@ Currently working as a UI/UX Designer for blood donor application using Figma an
 ## 🔭 Current Focus
 
 Currently pursuing my bachelor's degree on Computer Science Major at University of Sumatera Utara.
-- Tech Enthusiast
+- Tech Enthusiast and yap a lot about Github
 - Mostly Intered in Mobile and Software Development.
 - Love to experincing new tools and new environment.
 - Devour to commiting on github for 365 Days, small commit matters.
