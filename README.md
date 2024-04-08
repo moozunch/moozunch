@@ -3,7 +3,7 @@
 ### Hi there, I'm Annisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding. <br>
-Currently working as a UI/UX Designer for blood donor application using Figma and Android Studio (private repository), and aswell learning Kotlin with IntelliJ
+Currently working as a UI/UX Designer for blood donor application using Figma and Android Studio (private repository) and aswell learning Kotlin with IntelliJ
 
 
 ![](https://github-profile-trophy.vercel.app/?username=moozunch&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
