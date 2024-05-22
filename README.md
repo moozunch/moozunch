@@ -14,7 +14,7 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
 - Tech Enthusiast and yap a lot about Github
 - Mostly Interested in Mobile and Software Development.
 - Love to experincing new tools and new environment.
-- Devour to commiting on github for 365 Days, small commit matters.
+- Devour to commiting on github for 365 Days.
 
 ## 🎶 Fun Fact
 
