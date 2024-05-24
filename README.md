@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/moozunch/moozunch/assets/112236945/472c2450-9cf7-4743-beb2-a3fc40ac83dc" style="width:200px;height:200px;">
+gra<img align="left" src="https://github.com/moozunch/moozunch/assets/112236945/472c2450-9cf7-4743-beb2-a3fc40ac83dc" style="width:200px;height:200px;">
 
 ### Hi there, I'm Annisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
@@ -20,7 +20,7 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
 
 - I love music a lot I can listen to it all day
 - I used to wanted to be a Medical Student, but as I grew up I found out what I really enjoy doing.
-- I really enjoying editing and been editing since 2018.
+- I really enjoying editing and been editing since 2018. [Editing Account](https://www.instagram.com/oodj8e?igsh=enVhcWQ2YmVqZm9v)
 - I also love photography and wanted to learn more about it.
 
 ## 📫 Contact
