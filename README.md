@@ -1,4 +1,4 @@
-gra<img align="left" src="https://github.com/moozunch/moozunch/assets/112236945/472c2450-9cf7-4743-beb2-a3fc40ac83dc" style="width:200px;height:200px;">
+<img align="left" src="https://github.com/moozunch/moozunch/assets/112236945/472c2450-9cf7-4743-beb2-a3fc40ac83dc" style="width:200px;height:200px;">
 
 ### Hi there, I'm Annisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
