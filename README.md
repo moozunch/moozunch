@@ -30,7 +30,7 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
  - LinkedIn [Profile](https://www.linkedin.com/in/annisa-putri-aprilia-7070b9299/).
 - Figma [Profile](https://www.figma.com/@moozunch)
 - Google Skill Cloud Boost [Profile](https://www.cloudskillsboost.google/public_profiles/df6ebb27-7365-4930-92c7-2660cf5b7d08)
-
+- Kaggle [Profile](https://www.kaggle.com/annisaputriaprilia)
  ## 📊 Github Stats
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moozunch&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"></br>
