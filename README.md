@@ -25,7 +25,6 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
 ## 📫 Contact
 
  - For a quick response, DM me on [Instagram](https://www.instagram.com/apictoresque/). 
- - TLX Profile for [Competitive Programming](https://tlx.toki.id/profiles/moozunch).
  - LinkedIn [Profile](https://www.linkedin.com/in/annisa-putri-aprilia-7070b9299/).
 - Figma [Profile](https://www.figma.com/@moozunch)
 - Kaggle [Profile](https://www.kaggle.com/annisaputriaprilia)
