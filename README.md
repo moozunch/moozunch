@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Annisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a 19-year-old developer based on Indonesia, I really love tech and building personal branding. <br>
+I'm a 20-year-old developer based on Indonesia, I really love tech and building personal branding. <br>
 Passionate on Mobile Development and Machine Learning.
 
 
@@ -28,6 +28,7 @@ Currently pursuing my bachelor's degree on Computer Science Major at University 
  - LinkedIn [Profile](https://www.linkedin.com/in/annisa-putri-aprilia-7070b9299/).
 - Figma [Profile](https://www.figma.com/@moozunch)
 - Kaggle [Profile](https://www.kaggle.com/annisaputriaprilia)
+- Exercism [Profile](https://exercism.org/profiles/moozunch)
  ## 📊 Github Stats
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moozunch&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"></br>
