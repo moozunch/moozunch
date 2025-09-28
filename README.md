@@ -12,12 +12,11 @@ Passionate on Mobile Development and Machine Learning.
 
 Currently pursuing my bachelor's degree on Computer Science Major at University of Sumatera Utara.
 - Tech Enthusiast and yap a lot about Github
-- Mostly Interested in Mobile and Software Development.
+- Mostly Interested in Mobile and Machine Learning.
 - Love to experincing new tools and new environment.
 
 ## 🎶 Fun Fact
 
-- I love music a lot I can listen to it all day
 - I used to wanted to be a Medical Student, but as I grew up I found out what I really enjoy doing.
 - I really enjoying editing and been editing since 2018. [Editing Account](https://www.instagram.com/oodj8e?igsh=enVhcWQ2YmVqZm9v)
 - I also love photography and wanted to learn more about it.
